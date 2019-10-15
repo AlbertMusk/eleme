@@ -1,29 +1,8 @@
-# vue-sell-cube
+# 重构饿了么
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 使用的技术栈
+- Vue
+- Vue-cli、Vue-router
+- axios、[vue-resource]
+- cube-ui
+- better-scroll插件
