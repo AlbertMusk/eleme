@@ -10,7 +10,8 @@ export default {
       type: Array
     },
     size: {
-      type: Number
+      type: Number,
+      default: 12
     }
   },
   data () {

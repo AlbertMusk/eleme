@@ -128,7 +128,6 @@ export default {
         color rgb(147, 153, 159)
     .overview-right
       flex 1
-      padding-left 24px
       .rating-service, .rating-food, .deliveryTime
         padding 0 24px
         margin-bottom 8px

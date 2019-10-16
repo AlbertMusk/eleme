@@ -2,6 +2,7 @@
 node_modules
 /dist
 resource
+笔记.md
 
 # local env files
 .env.local
